@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Bojja</h1>
 <h3 align="center">A passionate Artificial Intelligence & Machine Learning engineer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://preview.redd.it/im-obsessed-with-this-little-timer-that-i-made-for-my-v0-hedsejiyln9b1.gif?width=560&auto=webp&s=9ec09a2f94491ab37ff0b6712aae5f7782c2008d" >
+<img align="right" alt="Coding" width="300" src="https://preview.redd.it/im-obsessed-with-this-little-timer-that-i-made-for-my-v0-hedsejiyln9b1.gif?width=560&auto=webp&s=9ec09a2f94491ab37ff0b6712aae5f7782c2008d" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryareddy05&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryareddy05" /> </p>
 
