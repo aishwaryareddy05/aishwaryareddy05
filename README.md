@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **aishwaryareddy4560@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13o7tfmxwxI9hECZIUoiPKOgsKyf80UkM/view?usp=sharing](https://drive.google.com/file/d/13o7tfmxwxI9hECZIUoiPKOgsKyf80UkM/view?usp=sharing)
-
 - ⚡ Fun fact **I am chill girl**
 
 <h3 align="left">Connect with me:</h3>
